@@ -22,6 +22,6 @@ public class AveragingProgram {
 			counter++;
 		}
 		average = total/amount;
-		System.out.println("Your average is " + average);
+		System.out.println("Your average is: " + average);
 	}
 }
